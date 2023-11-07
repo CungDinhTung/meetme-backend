@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web version="8.0" xmlns="http://www.jboss.com/xml/ns/javaee">
+    <context-root>/meetme</context-root>
+</jboss-web>
